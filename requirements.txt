@@ -2,11 +2,10 @@ flask
 pandas
 pdfplumber
 PyPDF2
-TableExtractionPdfplumber
-TableExtractionTabula
 json
 os
 flask_cors
 re
 werkzeug
 numpy
+tabula
