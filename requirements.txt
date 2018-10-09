@@ -2,7 +2,6 @@ flask
 pandas
 pdfplumber
 PyPDF2
-json
 os
 flask_cors
 re
