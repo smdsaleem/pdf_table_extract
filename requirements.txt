@@ -3,7 +3,6 @@ pandas
 pdfplumber
 PyPDF2
 flask_cors
-re
 werkzeug
 numpy
 tabula
